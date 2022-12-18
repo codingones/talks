@@ -62,6 +62,55 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
         - La mise en ligne en open data d'un fichier sur data.gouv créé une URL stable, s'il s'agit d'un fichier JSON l'URL peut être utilisé dans le front de la cartographie de la même manière qu'un endpoint d'API
 - Purpose : Aujourd'hui nous réfléchissons à produire notre propre API, mais c'est pour résoudre des cas à la marge, car notre produit fonctionne parfaitement dans la plupart des cas en l'état. La totalité des acteurs avec qui nous avons interagi ont accueilli très positivement nos contributions et ont salué la valeur que nous leur avons apportée alors même que ces cela nous a fait gagner du temps sur notre propre roadmap.
 
+## Plan détaillé
+
+- Présentation du contexte
+    - L'équipe
+    - Quelques mots au sujet de la médiation numérique
+    - Ce que nous cherchons à résoudre
+        - Multiplication de cartographies locales sans cohésion
+        - Problème d'uniformisation de la donnée collectée
+- Notre solution
+    - Une cartographie des lieux de médiation numérique facile à intégrer en marque blanche
+- Nos contraintes
+  - Petite équipe
+  - Impact rapide
+- Les étapes de la construction
+    - Mise en ligne initiale => Fork du produit Res'in + fichier JSON comme source de données
+    - Parcours d'orientation => développement filtres côté front
+    - Référencer un lieu sur la cartographie => Collaboration DORA
+      - Problème : formulaire trop complexe
+      - Solution : contribution open source
+      - Effets positifs supplémentaires :
+        - On avance la roadmap de DORA
+        - Expérience produit de DORA
+        - Business development de DORA nous profite également
+        - Fonctionnalités de DORA
+    - Référencer des lieux en masse => Collaboration Mednum / Datactivist
+      - Problème : définir un schéma de données co-construit avec les acteurs existants
+      - Solution : intégration comité de pilotage de la définition du schéma
+      - Effets positifs supplémentaires
+        - Mise en avant comme produit pilote du schéma
+        - Participation active à l'élaboration du schéma
+        - Une fois en place, le schéma donne accès à tous les outils publier.etalab.studio pour la validation et la publication des données sur data.gouv
+    - Fusionner de multiples sources de données => Collaboration avec data.inclusion
+      - Problème : API non compatible avec la cartographie
+      - Solution : développement de scripts de conversion entre nos schémas respectifs
+      - Effets positifs supplémentaires
+        - Nous sommes l'une des sources de données importantes de data.inclusion
+        - Nous profitons des améliorations sur la qualité des données de data.inclusion
+        - Les données sont dédoublonnées par data.inclusion
+    - Récupérer les données pour l’affichage dans la cartographie => data.gouv
+      - Effets positifs supplémentaires
+        - Toutes les données que nous gérons sont disponibles en open data par construction
+- Les limites du système
+  - Problèmes de perfs lorsqu'il y a beaucoup de données
+  - Nous avons peut-être eu de la chance avec nos partenaires qui sont vraiment tous super
+  - Nous déléguons une partie de la maîtrise du produit
+  - Il faut veiller à avoir une bonne architecture pour pouvoir changer d'avis plus tard
+  - Ce n’est pas magique, il y a quand même un peu de code à produire
+- Démo de la facilité d'intégration de la cartographie dans une page HTML avec une source de données custom
+
 ## Sources
 
 ### Sujet
