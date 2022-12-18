@@ -61,3 +61,32 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
     - Récupérer la donnée pour l'affichage dans la cartographie
         - La mise en ligne en open data d'un fichier sur data.gouv créé une URL stable, s'il s'agit d'un fichier JSON l'URL peut être utilisé dans le front de la cartographie de la même manière qu'un endpoint d'API
 - Purpose : Aujourd'hui nous réfléchissons à produire notre propre API, mais c'est pour résoudre des cas à la marge, car notre produit fonctionne parfaitement dans la plupart des cas en l'état. La totalité des acteurs avec qui nous avons interagi ont accueilli très positivement nos contributions et ont salué la valeur que nous leur avons apportée alors même que ces cela nous a fait gagner du temps sur notre propre roadmap.
+
+## Sources
+
+### Sujet
+
+### Outils
+
+- conference hall
+- papercall
+- cfp.io
+- BBL
+
+### Préparation
+
+- [S2E08 : Comment sont choisis les sujets des conférences tech? Avec Estelle Landry](https://www.youtube.com/watch?v=BIrYQE13CGs)
+    - [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda/)
+- [S2E13 : Petit guide des confs tech](https://www.youtube.com/watch?v=QbjccJNB9oc)
+    - [Agenda conferences](https://github.com/scraly/developers-conferences-agenda/)
+    - [Comment bien préparer sa participation à Devoxx France ?](https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/)
+- [Osez Devenir Speaker ! (Estelle Landry et Julien Topçu)](https://www.youtube.com/watch?v=278MbzdJ_Gg)
+    - 29:34 exemple d'abstract et de références
+- [Les secrets de la sélection des talks chez Devoxx France par Nicolas Martignole](https://www.youtube.com/watch?v=zQUVCmAf9DI)
+- [Slides: Do's and Don'ts](https://www.youtube.com/watch?v=onfaLYecMlQ)
+- [L'art du Story Telling par Cyrille Dupuydauby](https://www.youtube.com/watch?v=aNfYcXTpV1c)
+- [Réussir sa candidature aux conférences](https://www.youtube.com/watch?v=sirHZcpSkqs)
+    - 40:47 exemple d'abstract et de références "d'un talk qui a bien marché"
+- [Donner sa première conférence, de l'idée à la réalisation par Estelle Landry](https://www.youtube.com/watch?v=15LSass6j9A)
+    - 34:25 exemple de biographie
+    - 36:15 exemple d'abstract et de références
