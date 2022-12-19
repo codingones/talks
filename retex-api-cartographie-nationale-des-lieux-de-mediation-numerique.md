@@ -103,6 +103,78 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 - Varier les templates pour briser la monotonie
 - Répéter le message que l'on veut faire passer jusqu'à 3 fois en le reformulant
 
+## Abstract
+
+Lors de ce retour d'expérience, vous verrez comment notre petite équipe de développement a réussi à maximiser la valeur produite en ne codant pas.
+
+Vous découvrirez au travers d'exemples concrets pourquoi cela nous a permis de gagner un temps très précieux en période de lancement, ainsi que les nombreux effets positifs auxquels nous ne nous attendions vraiment pas en faisant ce choix !
+
+## Talk References
+
+#retour-expérience #open-source #open-data
+
+\## 🌱 Origine
+
+Sujet présenté pour la première fois à l'édition décembre 2022 de l'unconf organisée par HackYourJob (pas de captation).
+
+J'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
+Ces retours m'ont motivé à partager mon expérience à un plus large public.  
+Ce qui m'a convaincu d'entreprendre cette démarche est que cela peut changer le regard des développeurs et des développeuses sur l'impact qu'ils ou elles peuvent avoir sur le produit.
+
+\## 🤔 Pourquoi moi ?
+
+Lead développeur sur la start-up d'état "cartographie nationale des lieux de médiation numérique", je suis à l'origine de la stratégie qui consiste à privilégier des collaborations entre produits, des solutions open source ou des publications en open data, plutôt que de passer systématiquement par la case développement.
+
+\## 🎯 Objectif
+
+On se réduit bien souvent à notre capacité à écrire du code avec certains langages / frameworks ou maîtrise de certaines technologies, alors qu'on a tout intérêt à se servir de notre approche systémique et notre esprit d'analyse pour proposer des solutions plus originales et plus efficaces que ce dont nous avons l'habitude.
+
+Avec ce retour d'expérience, je voudrais toucher les développeurs et des développeuses qui ont du mal à imaginer comment apporter de la valeur autrement que par le code. En effet, produire et maintenir du code n'est pas l'unique moyen à disposition, mais certainement le plus lent et le plus coûteux.
+
+Je voudrais qu'en sortant de la salle les développeurs et les développeuses envisagent des solutions alternatives à l'écriture de code pour mettre en place des systèmes dans les produits sur lesquels ils ou elles contribuent.
+
+
+\## 🗺️ Plan détaillé
+
+- Présentation du contexte
+    - L'équipe
+    - Quelques mots au sujet de la médiation numérique
+    - Notre solution
+    - Nos contraintes
+- Les étapes de la construction
+    - Mise en ligne initiale => Fork du produit Res'in + fichier JSON comme source de données
+    - Parcours d'orientation => développement filtres côté front
+    - Référencer un lieu sur la cartographie => Collaboration DORA
+        - Problème : formulaire trop complexe
+        - Solution : contribution open source
+        - Effets positifs supplémentaires
+    - Référencer des lieux en masse => Collaboration Mednum / Datactivist
+        - Problème : définir un schéma de données co-construit avec les acteurs existants
+        - Solution : intégration comité de pilotage de la définition du schéma
+        - Effets positifs supplémentaires
+    - Fusionner de multiples sources de données => Collaboration avec data.inclusion
+        - Problème : API non compatible avec la cartographie
+        - Solution : développement de scripts de conversion entre nos schémas respectifs
+        - Effets positifs supplémentaires
+    - Récupérer les données pour l’affichage dans la cartographie => data.gouv
+        - Effet positif supplémentaire
+- Les limites
+- Démo de l'intégration avec une source de données personnalisée
+
+\## 🎬 Slides
+
+Travail en cours, mais l'essentiel est posé
+
+[Comment on n'a (toujours) pas codé de back-end après 9 mois en production](https://hackmd.io/@marc-gavanier/SyRTWj2uo#/)
+
+---
+
+- Similaire à un synopis de film
+- Doit suciter l'intérêt
+- Ne dois pas tout dévoiler
+- Expliquer le pourquoi (why)
+- Clair et précis
+
 ## Sources
 
 ### Sujet
