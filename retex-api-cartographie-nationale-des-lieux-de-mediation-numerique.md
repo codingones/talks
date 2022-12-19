@@ -6,7 +6,7 @@ tags: Presentations
 
 ## Titre
 
-Comment on a (toujours) pas codé de back-end après 9 mois en production
+Comment on n'a (toujours) pas codé de back-end après 9 mois en production
 
 ## Format
 
@@ -65,16 +65,13 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 ## Plan détaillé
 
 - Présentation du contexte
-    - L'équipe
-    - Quelques mots au sujet de la médiation numérique
-    - Ce que nous cherchons à résoudre
-        - Multiplication de cartographies locales sans cohésion
-        - Problème d'uniformisation de la donnée collectée
-- Notre solution
+  - L'équipe
+  - Quelques mots au sujet de la médiation numérique
+  - Notre solution
     - Une cartographie des lieux de médiation numérique facile à intégrer en marque blanche
-- Nos contraintes
-  - Petite équipe
-  - Impact rapide
+  - Nos contraintes
+    - Petite équipe
+    - Impact rapide
 - Les étapes de la construction
     - Mise en ligne initiale => Fork du produit Res'in + fichier JSON comme source de données
     - Parcours d'orientation => développement filtres côté front
@@ -103,13 +100,31 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
     - Récupérer les données pour l’affichage dans la cartographie => data.gouv
       - Effets positifs supplémentaires
         - Toutes les données que nous gérons sont disponibles en open data par construction
-- Les limites du système
+- Les limites
   - Problèmes de perfs lorsqu'il y a beaucoup de données
   - Nous avons peut-être eu de la chance avec nos partenaires qui sont vraiment tous super
   - Nous déléguons une partie de la maîtrise du produit
   - Il faut veiller à avoir une bonne architecture pour pouvoir changer d'avis plus tard
   - Ce n’est pas magique, il y a quand même un peu de code à produire
-- Démo de la facilité d'intégration de la cartographie dans une page HTML avec une source de données custom
+- Démo de l'intégration de la cartographie dans une page HTML avec une source de données personnalisée
+
+## Slides
+
+[Comment on n'a (toujours) pas codé de backend après 9 mois en production](https://hackmd.io/@marc-gavanier/SyRTWj2uo#/)
+
+---
+
+- Les 3 slides les plus importants
+    - 1er (Titre + sous-titre)
+    - 2e (se présenter, annoncer l'angle (débutant, expert, etc.))
+    - Dernier (Merci écrit en gros)
+        - comme il va rester longtemps, il faut y mettre les informations importantes
+- 1 slide = 1 minute (+- 20%)
+- Slides autoportantes
+    - une idée par slide
+    - on ne doit pas perdre le contexte
+- Varier les templates pour briser la monotonie
+- Répéter le message que l'on veut faire passer jusqu'à 3 fois en le reformulant
 
 ## Sources
 
