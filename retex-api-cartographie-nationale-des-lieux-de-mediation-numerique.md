@@ -109,30 +109,19 @@ Lors de ce retour d'expérience, vous verrez comment notre petite équipe de dé
 
 Vous découvrirez au travers d'exemples concrets pourquoi cela nous a permis de gagner un temps très précieux en période de lancement, ainsi que les nombreux effets positifs auxquels nous ne nous attendions vraiment pas en faisant ce choix !
 
+---
+
+- Similaire à un synopsis de film
+- Doit susciter l'intérêt
+- Ne dois pas tout dévoiler
+- Expliquer le pourquoi (why)
+- Clair et précis
+
 ## Talk References
 
 #retour-expérience #open-source #open-data
 
-\## 🌱 Origine
-
 Sujet présenté pour la première fois à l'édition décembre 2022 de l'unconf organisée par HackYourJob (pas de captation).
-
-J'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
-Ces retours m'ont motivé à partager mon expérience à un plus large public.  
-Ce qui m'a convaincu d'entreprendre cette démarche est que cela peut changer le regard des développeurs et des développeuses sur l'impact qu'ils ou elles peuvent avoir sur le produit.
-
-\## 🤔 Pourquoi moi ?
-
-Lead développeur sur la start-up d'état "cartographie nationale des lieux de médiation numérique", je suis à l'origine de la stratégie qui consiste à privilégier des collaborations entre produits, des solutions open source ou des publications en open data, plutôt que de passer systématiquement par la case développement.
-
-\## 🎯 Objectif
-
-On se réduit bien souvent à notre capacité à écrire du code avec certains langages / frameworks ou maîtrise de certaines technologies, alors qu'on a tout intérêt à se servir de notre approche systémique et notre esprit d'analyse pour proposer des solutions plus originales et plus efficaces que ce dont nous avons l'habitude.
-
-Avec ce retour d'expérience, je voudrais toucher les développeurs et des développeuses qui ont du mal à imaginer comment apporter de la valeur autrement que par le code. En effet, produire et maintenir du code n'est pas l'unique moyen à disposition, mais certainement le plus lent et le plus coûteux.
-
-Je voudrais qu'en sortant de la salle les développeurs et les développeuses envisagent des solutions alternatives à l'écriture de code pour mettre en place des systèmes dans les produits sur lesquels ils ou elles contribuent.
-
 
 \## 🗺️ Plan détaillé
 
@@ -169,11 +158,63 @@ Travail en cours, mais l'essentiel est posé
 
 ---
 
-- Similaire à un synopis de film
-- Doit suciter l'intérêt
-- Ne dois pas tout dévoiler
-- Expliquer le pourquoi (why)
-- Clair et précis
+- Les détails pour l'orga
+- Plan détaillé
+- repository
+- slides
+- Raconter de quoi on va parler (what)
+- Mots clés
+- Exprimer la valeur apportée
+- Refs
+    - meetup
+    - bbl
+    - captation
+    - podcast
+
+## Message aux organisateurs
+
+\## 🌱 Origine
+
+À l'issue de la présentation du sujet à l'unconf HackYourJOb, j'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
+Ces retours m'ont motivé à partager mon expérience à un plus large public.  
+Ce qui m'a convaincu d'entreprendre cette démarche est que cela peut changer le regard des développeurs et des développeuses sur l'impact qu'ils ou elles peuvent avoir sur le produit.
+
+\## 🤔 Pourquoi moi ?
+
+Lead développeur sur la start-up d'état "cartographie nationale des lieux de médiation numérique", je suis à l'origine de la stratégie qui consiste à privilégier des collaborations entre produits, des solutions open source ou des publications en open data, plutôt que de passer systématiquement par la case développement.
+
+\## 🎯 Objectif
+
+On se réduit bien souvent à notre capacité à écrire du code avec certains langages / frameworks ou maîtrise de certaines technologies, alors qu'on a tout intérêt à se servir de notre approche systémique et notre esprit d'analyse pour proposer des solutions plus originales et plus efficaces que ce dont nous avons l'habitude.
+
+Avec ce retour d'expérience, je voudrais toucher les développeurs et des développeuses qui ont du mal à imaginer comment apporter de la valeur autrement que par le code. En effet, produire et maintenir du code n'est pas l'unique moyen à disposition, mais certainement le plus lent et le plus coûteux.
+
+Je voudrais qu'en sortant de la salle les développeurs et les développeuses envisagent des solutions alternatives à l'écriture de code pour mettre en place des systèmes dans les produits sur lesquels ils ou elles contribuent.
+
+---
+
+- Purquoi c'est important
+- Ce que l'on va apporter aux participants
+- La démarche
+- Mettre à plat les arguments
+
+## Biography
+
+Ingénieur logiciel indépendant, je suis passionné par le développement, mais ce que j'aime encore plus c'est apporter un maximum de valeur aux utilisateurs des produits sur lesquels j'interviens.
+Je m'intéresse donc à tous les sujets qui favorisent la fluidité du développement et la collaboration tels que l'agilité, TDD, BDD, DDD, DevOps
+
+En ce moment, je suis en mission chez beta.gouv où j'aide 13 millions de Français éloignés du numérique à devenir indépendant sur le sujet.  
+Pour y parvenir, je contribue sur la [Cartographie nationale des lieux de médiation numérique](https://cartographie.societenumerique.gouv.fr) qui rend visible l'offre d'accompagnement disponible en France auprès des travailleurs sociaux qui sont les principaux prescripteurs des services de médiation numérique.
+
+---
+
+- Éviter le côté CV
+
+## Speaker references
+
+Quelques présentations que j'ai faites pour l'association étudiante Efrei Linux et mes collègues à beta.gouv:
+- [Du test logiciel au TDD](https://hackmd.io/@codingones/ByCYIe9ms#/)
+- [Fonctions & inversion de dépendance](https://hackmd.io/@codingones/BJbtIKGdY#/)
 
 ## Sources
 
