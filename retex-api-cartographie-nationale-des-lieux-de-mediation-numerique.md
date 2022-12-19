@@ -1,5 +1,21 @@
 # Préparation Talk - Retex construction de l'API pour la cartographie nationale des lieux de médiation numérique
 
+## Table des matières
+
+- 🪧 [Titre](#titre)
+- ⏱️ [Format](#format)
+- 👥 [À qui ça s'adresse](#à-qui-ça-sadresse)
+- 🚀 [Call to action](#call-to-action)
+- 📝 [PROEP](#proep)
+- 🗺️ [Plan détaillé](#plan-détaillé)
+- 🎬 [Slides](#slides)
+- 🎀 [Abstract](#abstract)
+- 🎙️ [Talk References](#talk-references)
+- ✉️ [Message aux organisateurs](#message-aux-organisateurs)
+- 🫖 [Biography](#biography)
+- 💬 [Speaker references](#speaker-references)
+- 🌐 [Sources](#sources)
+
 ## Titre
 
 Comment on n'a (toujours) pas codé de back-end après 9 mois en production
@@ -7,7 +23,6 @@ Comment on n'a (toujours) pas codé de back-end après 9 mois en production
 ## Format
 
 Quicky (environ 15-20 minutes)
-
 
 ## À qui ça s'adresse
 
@@ -242,12 +257,8 @@ Quelques présentations que j'ai faites pour l'association étudiante Efrei Linu
     - [Agenda conferences](https://github.com/scraly/developers-conferences-agenda/)
     - [Comment bien préparer sa participation à Devoxx France ?](https://www.devoxx.fr/2022/03/14/comment-bien-preparer-sa-participation-a-devoxx-france/)
 - [Osez Devenir Speaker ! (Estelle Landry et Julien Topçu)](https://www.youtube.com/watch?v=278MbzdJ_Gg)
-    - 29:34 exemple d'abstract et de références
 - [Les secrets de la sélection des talks chez Devoxx France par Nicolas Martignole](https://www.youtube.com/watch?v=zQUVCmAf9DI)
 - [Slides: Do's and Don'ts](https://www.youtube.com/watch?v=onfaLYecMlQ)
 - [L'art du Story Telling par Cyrille Dupuydauby](https://www.youtube.com/watch?v=aNfYcXTpV1c)
 - [Réussir sa candidature aux conférences](https://www.youtube.com/watch?v=sirHZcpSkqs)
-    - 40:47 exemple d'abstract et de références "d'un talk qui a bien marché"
 - [Donner sa première conférence, de l'idée à la réalisation par Estelle Landry](https://www.youtube.com/watch?v=15LSass6j9A)
-    - 34:25 exemple de biographie
-    - 36:15 exemple d'abstract et de références
