@@ -1,7 +1,3 @@
----
-tags: Presentations
----
-
 # Préparation Talk - Retex construction de l'API pour la cartographie nationale des lieux de médiation numérique
 
 ## Titre
@@ -68,45 +64,26 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
   - L'équipe
   - Quelques mots au sujet de la médiation numérique
   - Notre solution
-    - Une cartographie des lieux de médiation numérique facile à intégrer en marque blanche
   - Nos contraintes
-    - Petite équipe
-    - Impact rapide
 - Les étapes de la construction
     - Mise en ligne initiale => Fork du produit Res'in + fichier JSON comme source de données
     - Parcours d'orientation => développement filtres côté front
     - Référencer un lieu sur la cartographie => Collaboration DORA
       - Problème : formulaire trop complexe
       - Solution : contribution open source
-      - Effets positifs supplémentaires :
-        - On avance la roadmap de DORA
-        - Expérience produit de DORA
-        - Business development de DORA nous profite également
-        - Fonctionnalités de DORA
+      - Effets positifs supplémentaires
     - Référencer des lieux en masse => Collaboration Mednum / Datactivist
       - Problème : définir un schéma de données co-construit avec les acteurs existants
       - Solution : intégration comité de pilotage de la définition du schéma
       - Effets positifs supplémentaires
-        - Mise en avant comme produit pilote du schéma
-        - Participation active à l'élaboration du schéma
-        - Une fois en place, le schéma donne accès à tous les outils publier.etalab.studio pour la validation et la publication des données sur data.gouv
     - Fusionner de multiples sources de données => Collaboration avec data.inclusion
       - Problème : API non compatible avec la cartographie
       - Solution : développement de scripts de conversion entre nos schémas respectifs
       - Effets positifs supplémentaires
-        - Nous sommes l'une des sources de données importantes de data.inclusion
-        - Nous profitons des améliorations sur la qualité des données de data.inclusion
-        - Les données sont dédoublonnées par data.inclusion
     - Récupérer les données pour l’affichage dans la cartographie => data.gouv
-      - Effets positifs supplémentaires
-        - Toutes les données que nous gérons sont disponibles en open data par construction
+      - Effet positif supplémentaire
 - Les limites
-  - Problèmes de perfs lorsqu'il y a beaucoup de données
-  - Nous avons peut-être eu de la chance avec nos partenaires qui sont vraiment tous super
-  - Nous déléguons une partie de la maîtrise du produit
-  - Il faut veiller à avoir une bonne architecture pour pouvoir changer d'avis plus tard
-  - Ce n’est pas magique, il y a quand même un peu de code à produire
-- Démo de l'intégration de la cartographie dans une page HTML avec une source de données personnalisée
+- Démo de l'intégration avec une source de données personnalisée
 
 ## Slides
 
@@ -129,6 +106,13 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 ## Sources
 
 ### Sujet
+
+- [Cartographie Nationale des lieux de médiation numérique](https://cartographie.societenumerique.gouv.fr)
+- [DORA](https://dora.fabrique.social.gouv.fr/)
+- [Schéma de données des lieux de médiation numérique](https://lamednum.coop/schema-de-donnees-des-lieux-de-mediation-numerique-2/)
+- [Data.inclusion](https://www.data.inclusion.beta.gouv.fr)
+- [schema.data.gouv.fr](https://schema.data.gouv.fr/LaMednum/standard-mediation-num/latest.html)
+- [data.gouv.fr](https://www.data.gouv.fr/fr/organizations/cartographie-nationale-des-lieux-de-mediation-numerique/)
 
 ### Outils
 
