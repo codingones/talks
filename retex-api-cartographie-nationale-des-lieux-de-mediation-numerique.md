@@ -38,7 +38,7 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 
 - Purpose : On a essayé de ne pas coder de back-end depuis plusieurs mois et ça marche bien, avec des effets positifs que nous n'avions pas anticipés
 - Rationale : Explication de
-    - notre progression et les choix sue nous avons eu à faire
+    - notre progression et les choix que nous avons eu à faire
     - comment on a réussi à repousser l'implémentation d'un backend le plus loin possible
     - les effets positifs ciblés initialement étaient au rendez-vous
         - Gain de temps
