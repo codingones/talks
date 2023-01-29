@@ -136,7 +136,10 @@ Vous découvrirez au travers d'exemples concrets pourquoi cela nous a permis de 
 
 #retour-expérience #open-source #open-data
 
-Sujet présenté pour la première fois à l'édition décembre 2022 de l'unconf organisée par HackYourJob (pas de captation).
+\## 🎙️ Déjà présenté
+
+- Pour la première fois à l'édition décembre 2022 de l'unconf organisée par HackYourJob (pas de captation).
+- Sur le podcast [PunkinDev - S3E03 : 9 mois de prod, sans coder de back avec Marc Gavanier](https://podcast.ausha.co/punkindev/s3e03-9-mois-de-prod-sans-coder-de-back-avec-marc-gavanier)
 
 \## 🗺️ Plan détaillé
 
