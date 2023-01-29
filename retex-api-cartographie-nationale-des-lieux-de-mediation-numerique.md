@@ -190,7 +190,7 @@ Travail en cours, mais l'essentiel est posé
 
 \## 🌱 Origine
 
-À l'issue de la présentation du sujet à l'unconf HackYourJOb, j'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
+À l'issue de la présentation du sujet à l'unconf HackYourJob, j'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
 Ces retours m'ont motivé à partager mon expérience à un plus large public.  
 Ce qui m'a convaincu d'entreprendre cette démarche est que cela peut changer le regard des développeurs et des développeuses sur l'impact qu'ils ou elles peuvent avoir sur le produit.
 
