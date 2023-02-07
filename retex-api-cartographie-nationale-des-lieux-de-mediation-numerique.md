@@ -219,7 +219,6 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 ## Biography
 
 Ingénieur logiciel indépendant, je suis passionné par le développement, mais ce que j'aime encore plus c'est apporter un maximum de valeur aux utilisateurs des produits sur lesquels j'interviens.
-Je m'intéresse donc à tous les sujets qui favorisent la fluidité du développement et la collaboration tels que l'agilité, TDD, BDD, DDD, DevOps
 
 En ce moment, je suis en mission chez beta.gouv où j'aide 13 millions de Français éloignés du numérique à devenir indépendant sur le sujet.  
 Pour y parvenir, je contribue sur la [Cartographie nationale des lieux de médiation numérique](https://cartographie.societenumerique.gouv.fr) qui rend visible l'offre d'accompagnement disponible en France auprès des travailleurs sociaux qui sont les principaux prescripteurs des services de médiation numérique.
