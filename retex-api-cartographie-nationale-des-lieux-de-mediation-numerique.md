@@ -120,9 +120,15 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 
 ## Abstract
 
+### Version longue
+
 Lors de ce retour d'expérience, vous verrez comment notre petite équipe de développement a réussi à maximiser la valeur produite en ne codant pas.
 
 Vous découvrirez au travers d'exemples concrets pourquoi cela nous a permis de gagner un temps très précieux en période de lancement, ainsi que les nombreux effets positifs auxquels nous ne nous attendions vraiment pas en faisant ce choix !
+
+### Version courte
+
+Maximiser la valeur produite sans coder ? Découvrez ça avec des exemples concrets ainsi que certains effets positifs qui nous ont surpris !
 
 ---
 
