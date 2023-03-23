@@ -146,6 +146,9 @@ Maximiser la valeur produite sans coder ? Découvrez ça avec des exemples concr
 
 - Pour la première fois à l'édition décembre 2022 de l'unconf organisée par HackYourJob (pas de captation).
 - Sur le podcast [PunkinDev - S3E03 : 9 mois de prod, sans coder de back avec Marc Gavanier](https://podcast.ausha.co/punkindev/s3e03-9-mois-de-prod-sans-coder-de-back-avec-marc-gavanier)
+- Au meetup LyonJS : https://lyonjs.org/evenement/81-9-mois-de-prod-sans-avoir-code-de-back-end-and-mob-programming-e_291728436
+- (À venir le 04/04/2023) à la conférence Lyon Craft
+- (À venir le 10-11-12/07/2023) à la conférence Riviera DEV
 
 \## 🗺️ Plan détaillé
 
