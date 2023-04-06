@@ -102,7 +102,7 @@ Je voudrais qu'en sortant de la salle les développeurs et les développeuses en
 
 ## Slides
 
-[Comment on n'a (toujours) pas codé de backend après 9 mois en production](https://hackmd.io/@marc-gavanier/SyRTWj2uo#/)
+[Comment on n'a (toujours) pas codé de backend après 9 mois en production](https://docs.google.com/presentation/d/1ZDrfkwXCHpQUgBcVU4l5IqT8nqvhSOJNH_7cfiX-V14/edit#slide=id.g22a123e19d1_5_0)
 
 ---
 
@@ -179,9 +179,7 @@ Maximiser la valeur produite sans coder ? Découvrez ça avec des exemples concr
 
 \## 🎬 Slides
 
-Travail en cours, mais l'essentiel est posé
-
-[Comment on n'a (toujours) pas codé de back-end après 9 mois en production](https://hackmd.io/@marc-gavanier/SyRTWj2uo#/)
+[Comment on n'a (toujours) pas codé de back-end après 1 an en production](https://docs.google.com/presentation/d/1ZDrfkwXCHpQUgBcVU4l5IqT8nqvhSOJNH_7cfiX-V14/edit#slide=id.g22a123e19d1_5_0)
 
 ---
 
