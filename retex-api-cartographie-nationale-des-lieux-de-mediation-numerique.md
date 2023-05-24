@@ -198,23 +198,28 @@ Maximiser la valeur produite sans coder ? Découvrez ça avec des exemples concr
 
 ## Message aux organisateurs
 
-\## 🌱 Origine
+🌱 Numérique responsable
+
+Choisir de ne pas coder de back-end c'est choisir de ne pas allumer un serveur de plus 24h/24 en s'appuyant plutôt sur des systèmes existants. Cela nous permet de livrer plus de valeur, plus rapidement, diminuer la quantité de code à maintenir et d'opter pour une infrastructure qui rend le service disponible à la demande.
+L'effet de bord que l'on obtient fréquemment lorsque l'on diminue notre impact sur l'environnement est un impact financier positif : nous observons un coût d'infrastructure mensuel de 1,50 €
+
+🏁 Origine
 
 À l'issue de la présentation du sujet à l'unconf HackYourJob, j'ai eu des retours très positifs de la part d'un public composé de participants réguliers, de speakers, et d'un organisateur de conférences tech.
 Ces retours m'ont motivé à partager mon expérience à un plus large public.  
 Ce qui m'a convaincu d'entreprendre cette démarche est que cela peut changer le regard des développeurs et des développeuses sur l'impact qu'ils ou elles peuvent avoir sur le produit.
 
-\## 🤔 Pourquoi moi ?
+🤔 Pourquoi moi ?
 
 Lead développeur sur la start-up d'état "cartographie nationale des lieux de médiation numérique", je suis à l'origine de la stratégie qui consiste à privilégier des collaborations entre produits, des solutions open source ou des publications en open data, plutôt que de passer systématiquement par la case développement.
 
-\## 🎯 Objectif
+🎯 Objectif
 
 On se réduit bien souvent à notre capacité à écrire du code avec certains langages / frameworks ou maîtrise de certaines technologies, alors qu'on a tout intérêt à se servir de notre approche systémique et notre esprit d'analyse pour proposer des solutions plus originales et plus efficaces que ce dont nous avons l'habitude.
 
 Avec ce retour d'expérience, je voudrais toucher les développeurs et des développeuses qui ont du mal à imaginer comment apporter de la valeur autrement que par le code. En effet, produire et maintenir du code n'est pas l'unique moyen à disposition, mais certainement le plus lent et le plus coûteux.
 
-Je voudrais qu'en sortant de la salle les développeurs et les développeuses envisagent des solutions alternatives à l'écriture de code pour mettre en place des systèmes dans les produits sur lesquels ils ou elles contribuent.
+Je voudrais qu'en sortant de la salle les contributrices et les contributeurs envisagent des solutions alternatives à l'écriture de code pour mettre en place des systèmes dans les produits sur lesquels ils ou elles contribuent.
 
 ---
 
