@@ -5,6 +5,7 @@
 All of my notes for the preparation of talk subjects to give in conferences
 
 - [(FR) Préparation Talk - Retex construction de l'API pour la cartographie nationale des lieux de médiation numérique](./retex-api-cartographie-nationale-des-lieux-de-mediation-numerique.md)
+- [(FR) Préparation Talk - Retex Thunder Arrow](./retex-thunder-arrow.md)
 
 ## Table of contents
 
