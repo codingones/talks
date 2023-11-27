@@ -148,10 +148,10 @@ Maximiser la valeur produite sans coder ? Découvrez ça avec des exemples concr
 - [podcast PunkinDev - S3E03 : 9 mois de prod, sans coder de back avec Marc Gavanier](https://podcast.ausha.co/punkindev/s3e03-9-mois-de-prod-sans-coder-de-back-avec-marc-gavanier)
 - [meetup LyonJS 15/03/2023](https://lyonjs.org/evenement/81-9-mois-de-prod-sans-avoir-code-de-back-end-and-mob-programming-e_291728436)
 - [conférence Lyon Craft 04/04/2023](https://lyon-craft.fr/) - [captation](https://www.youtube.com/watch?v=G5Eflg7FAmA)
-- [conférence RivieraDev 10-12/07/2023](https://www.rivieradev.fr/)
-- [meetup Archilocus 12/09/2023](https://www.archilocus.tech/#agenda)
-- [conférence BDX I/O 10/11/2023](https://bdxio.fr/)
-- [conférence Devfest Strasbourg 15/11/2023](https://devfest.gdgstrasbourg.fr/)
+- [conférence RivieraDev 10-12/07/2023](https://www.rivieradev.fr/) - pas de captation
+- [meetup Archilocus 12/09/2023](https://www.archilocus.tech/#agenda) - [captation](https://www.youtube.com/watch?v=zmoPIkCrrXc)
+- [conférence BDX I/O 10/11/2023](https://bdxio.fr/) - [captation](https://youtu.be/5uAH54rtFXg?t=895)
+- [conférence Devfest Strasbourg 15/11/2023](https://devfest.gdgstrasbourg.fr/) [captation à venir]()
 
 \## 🗺️ Plan détaillé
 
